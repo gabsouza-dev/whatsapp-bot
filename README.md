@@ -1,4 +1,5 @@
-# 🤖 WhatsApp Bot - Automacao de Mensagens com TypeScript e YAML
+# 🤖 WhatsApp Bot
+**Automacao de Mensagens com TypeScript e YAML**
 
 Este projeto permite o envio automatizado de mensagens via WhatsApp utilizando **TypeScript**, **whatsapp-web.js** e **YAML** para configuração das mensagens. Ele funciona através da automação do WhatsApp Web, permitindo enviar mensagens para contatos sem precisar interagir manualmente.
 
